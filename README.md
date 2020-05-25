@@ -48,4 +48,4 @@ You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money
 - glob : for reading the file in the directory
 - cv2 : OpenCV library
 - matplotlib : displaying the image
-- touch : Pytorch Library for model implementation and data sugmentation
+- touch : Pytorch Library for model implementation and data augmentation
