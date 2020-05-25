@@ -42,3 +42,10 @@ If your code is taking too long to run, you will need to either reduce the compl
 You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money, but enrolled students should see a coupon code in their student `resources`.)
 
 **The folder save_model containf the trained model file from scratch and from the retraining of Resnet-50 Architecture.**
+
+#### Libraries used
+- Numpy : linear algebra
+- glob : for reading the file in the directory
+- cv2 : OpenCV library
+- matplotlib : displaying the image
+- touch : Pytorch Library for model implementation and data augmentation
